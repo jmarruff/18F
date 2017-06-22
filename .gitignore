@@ -33,4 +33,15 @@ xmlrpc.php
 /modules
 /profiles
 /scripts
-
+.csslintrc
+.editorconfig
+.eslintignore
+.eslintrc.json
+.gitattributes
+autoload.php
+composer.json
+composer.lock
+core/
+example.gitignore
+sites/
+vendor/
