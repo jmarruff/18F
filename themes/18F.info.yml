@@ -1,0 +1,21 @@
+name: 18F
+type: theme
+description: '18F Base Theme for Drupal 8.'
+core: 8.x
+base theme: classy
+libraries:
+  - 18F/global-styling
+regions:
+  header-top-left: 'Header Top Left'
+  header-top-right: 'Header Top Right'
+  header: 'Header'
+  navigation: 'Navigation'
+  top-content: 'Top Content'
+  content: 'Content'
+  sidebar_first: 'Sidebar First'
+  sidebar_second: 'Sidebar Second'
+  footer_first: 'Footer First'
+  footer_second: 'Footer Second'
+  footer_third: 'Footer Third'
+  footer: 'Footer'
+stylesheets-remove:
